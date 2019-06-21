@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/PopupControlContentUpdateOnCallback/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/PopupControlContentUpdateOnCallback/Default.aspx.vb))
 <!-- default file list end -->
 # An ASPxPopupControl with multiple contents obtained on callbacks
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1858/)**
+<!-- run online end -->
 
 
 <p>There are plenty of scenarios when it's required to show the popup control in<br /> various places and what is more important – with various contents. The aim of<br /> this sample is to demonstrate one possible way to resolve the problem of having<br /> several contents and switching between them. This problem may have several<br /> solutions; which of them to choose depends on your particular case.</p>
