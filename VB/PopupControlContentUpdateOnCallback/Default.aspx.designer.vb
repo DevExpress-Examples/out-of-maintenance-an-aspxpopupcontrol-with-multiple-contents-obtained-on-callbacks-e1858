@@ -38,7 +38,7 @@ Namespace PopupControlContentUpdateOnCallback
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnShowContent1 As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnShowContent1 As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' btnShowContent2 control.
@@ -47,7 +47,7 @@ Namespace PopupControlContentUpdateOnCallback
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnShowContent2 As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnShowContent2 As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' btnShowContent3 control.
@@ -56,7 +56,7 @@ Namespace PopupControlContentUpdateOnCallback
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnShowContent3 As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnShowContent3 As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' pcPopup control.
@@ -65,7 +65,7 @@ Namespace PopupControlContentUpdateOnCallback
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected pcPopup As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+		Protected pcPopup As Global.DevExpress.Web.ASPxPopupControl
 
 		''' <summary>
 		''' pgcPageControl control.
@@ -74,6 +74,6 @@ Namespace PopupControlContentUpdateOnCallback
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected pgcPageControl As Global.DevExpress.Web.ASPxTabControl.ASPxPageControl
+		Protected pgcPageControl As Global.DevExpress.Web.ASPxPageControl
 	End Class
 End Namespace

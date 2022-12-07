@@ -35,7 +35,7 @@ namespace PopupControlContentUpdateOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnShowContent1;
+        protected global::DevExpress.Web.ASPxButton btnShowContent1;
         
         /// <summary>
         /// btnShowContent2 control.
@@ -44,7 +44,7 @@ namespace PopupControlContentUpdateOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnShowContent2;
+        protected global::DevExpress.Web.ASPxButton btnShowContent2;
         
         /// <summary>
         /// btnShowContent3 control.
@@ -53,7 +53,7 @@ namespace PopupControlContentUpdateOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnShowContent3;
+        protected global::DevExpress.Web.ASPxButton btnShowContent3;
         
         /// <summary>
         /// pcPopup control.
@@ -62,7 +62,7 @@ namespace PopupControlContentUpdateOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.ASPxPopupControl pcPopup;
+        protected global::DevExpress.Web.ASPxPopupControl pcPopup;
         
         /// <summary>
         /// pgcPageControl control.
@@ -71,6 +71,6 @@ namespace PopupControlContentUpdateOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxTabControl.ASPxPageControl pgcPageControl;
+        protected global::DevExpress.Web.ASPxPageControl pgcPageControl;
     }
 }
