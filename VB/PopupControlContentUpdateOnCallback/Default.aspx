@@ -1,6 +1,6 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="PopupControlContentUpdateOnCallback._Default" %>
 
-<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 
 
