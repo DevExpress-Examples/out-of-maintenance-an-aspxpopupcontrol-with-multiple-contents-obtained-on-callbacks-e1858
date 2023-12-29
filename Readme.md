@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128554182/13.1.10%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1858)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -10,9 +5,6 @@
 * [Default.aspx.cs](./CS/PopupControlContentUpdateOnCallback/Default.aspx.cs) (VB: [Default.aspx.designer.vb](./VB/PopupControlContentUpdateOnCallback/Default.aspx.designer.vb))
 <!-- default file list end -->
 # An ASPxPopupControl with multiple contents obtained on callbacks
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1858/)**
-<!-- run online end -->
 
 
 <p>There are plenty of scenarios when it's required to show the popup control in<br /> various places and what is more important – with various contents. The aim of<br /> this sample is to demonstrate one possible way to resolve the problem of having<br /> several contents and switching between them. This problem may have several<br /> solutions; which of them to choose depends on your particular case.</p>
